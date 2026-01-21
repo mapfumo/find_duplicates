@@ -1,5 +1,9 @@
 # find_duplicates
 
+<p align="center">
+  <img src="logo.svg" alt="find_duplicates logo" width="150">
+</p>
+
 A fast, memory-efficient command-line tool for finding and managing duplicate files.
 
 ## Features

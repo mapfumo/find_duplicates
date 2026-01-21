@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background -->
+  <rect width="200" height="200" rx="20" fill="#1a1a2e"/>
+  
+  <!-- File 1 (back) -->
+  <g transform="translate(45, 35)">
+    <rect x="0" y="0" width="70" height="90" rx="5" fill="#4a4a6a" stroke="#6a6a8a" stroke-width="2"/>
+    <rect x="10" y="15" width="50" height="6" rx="2" fill="#6a6a8a"/>
+    <rect x="10" y="28" width="40" height="6" rx="2" fill="#6a6a8a"/>
+    <rect x="10" y="41" width="45" height="6" rx="2" fill="#6a6a8a"/>
+  </g>
+  
+  <!-- File 2 (middle) -->
+  <g transform="translate(65, 50)">
+    <rect x="0" y="0" width="70" height="90" rx="5" fill="#3a3a5a" stroke="#5a5a7a" stroke-width="2"/>
+    <rect x="10" y="15" width="50" height="6" rx="2" fill="#5a5a7a"/>
+    <rect x="10" y="28" width="40" height="6" rx="2" fill="#5a5a7a"/>
+    <rect x="10" y="41" width="45" height="6" rx="2" fill="#5a5a7a"/>
+  </g>
+  
+  <!-- File 3 (front) -->
+  <g transform="translate(85, 65)">
+    <rect x="0" y="0" width="70" height="90" rx="5" fill="#2a2a4a" stroke="#4a4a6a" stroke-width="2"/>
+    <rect x="10" y="15" width="50" height="6" rx="2" fill="#4a4a6a"/>
+    <rect x="10" y="28" width="40" height="6" rx="2" fill="#4a4a6a"/>
+    <rect x="10" y="41" width="45" height="6" rx="2" fill="#4a4a6a"/>
+  </g>
+  
+  <!-- Magnifying glass -->
+  <circle cx="55" cy="145" r="22" fill="none" stroke="#e94560" stroke-width="4"/>
+  <line x1="70" y1="160" x2="90" y2="180" stroke="#e94560" stroke-width="6" stroke-linecap="round"/>
+  
+  <!-- Checkmark inside magnifying glass -->
+  <polyline points="42,145 52,155 68,135" fill="none" stroke="#16c79a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
